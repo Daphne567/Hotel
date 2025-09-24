@@ -1,1 +1,1 @@
-Helps manage guest check-in, calculate payment for each day, and manage guest check-out after the last payment. The program receives the number of floors and rooms per floor the hotel will have by console arguments.
+
